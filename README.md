@@ -1,6 +1,6 @@
 ## Hi there 👋
 
--I'm a Freshman at Arizona State University pursuing my BS in Computers(CyberSecurity)
+-I'm a Sophmore at Arizona State University pursuing my BS in Computers(CyberSecurity)
 - 🔭 I’m currently interested in Cyber Security,AI,Cloud.
 - 🌱 I’m currently learning Scripting,Networks,Python,Java & Git.
 - 💬 Ask me about Chess
